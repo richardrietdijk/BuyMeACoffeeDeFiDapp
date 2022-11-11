@@ -1,5 +1,5 @@
 
-# BuyMeACoffeeDeFiDapp
+# Buy Me A Coffee DeFi dApp
 
 Blockchain technology is amazing because it gives us the ability to program money using code and software. With a few lines of code, it's possible to build all kinds of applications and protocols that can create new opportunities for people around the world.
 
