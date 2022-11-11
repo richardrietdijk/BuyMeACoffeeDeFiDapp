@@ -1,3 +1,6 @@
+
+# BuyMeACoffeeDeFiDapp
+
 Blockchain technology is amazing because it gives us the ability to program money using code and software. With a few lines of code, it's possible to build all kinds of applications and protocols that can create new opportunities for people around the world.
 
 Buy Me A Coffee is a popular website that creators, educators, entertainers, and all kinds of people use to create a landing page where anyone can send some amount of money as a thank you for their services. However, in order to use it, you must have a bank account and a credit card. Not everyone has that!
@@ -10,4 +13,3 @@ Node.js
 Hardhat
 Ethers.js
 
-# BuyMeACoffeeDeFiDapp
