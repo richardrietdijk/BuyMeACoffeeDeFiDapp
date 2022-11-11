@@ -12,6 +12,9 @@ Tech used:
  - Node.js
  - Hardhat
  - Ethers.js
+ 
+ ![alt text](https://ipfs.filebase.io/ipfs/QmZRxX8bRLe5QnYf8oNkeS1fabA1KdKo76ydcP8rpZWfZ9)
+
 
 **Live site:** https://buy-me-a-coffee-solidity-defi-tipping-app.richardrietdijk.repl.co
 
